@@ -11,13 +11,6 @@ I am a passionate learner currently diving deep into the world of **Python**. I 
 
 ---
 
-### 📂 Featured Projects
-
-#### ⚡ [Appliance Cost Calculator](https://github.com)
-- **Description:** A Python tool that calculates monthly electricity costs with safety buffer logic.
-- **Tech Stack:** Python
-- [View Code ↗](https://github.com)
-
 #### 🐍 [Task Tracker CLI]
 - **Description:** (Coming Soon! I'm working on this next.)
 - **Tech Stack:** Python
