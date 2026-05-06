@@ -5,11 +5,6 @@ I am a passionate learner currently diving deep into the world of **Python**. I 
 
 ---
 
-### 🛠 Skills & Tools
-![Python](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-
 - **Learning:** Python (Basics, Logic, Problem Solving)
 - **Interest Areas:** Backend Development & Cloud Infrastructure
 - **Daily Habit:** Committing code and building small Python tools
